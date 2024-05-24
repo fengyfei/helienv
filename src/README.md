@@ -28,15 +28,11 @@ highlights:
       background-size: initial
     features:
       - details: <image src="/assets/image/certs/1.jpg" width=100% />
-      
       - details: <image src="/assets/image/certs/2.jpg" width=100% />
-      
       - details: <image src="/assets/image/certs/3.jpg" width=100% />
-      
       - details: <image src="/assets/image/certs/4.jpg" width=100% />
-
       - details: <image src="/assets/image/certs/5.jpg" width=100% />
 
 copyright: false
-footer: <a href="https://theme-hope.vuejs.press/zh/" target="_blank">冀 xxx </a> 版权所有 © 2024 合利环保（河北）有限公司
+footer: <a href="https://beian.miit.gov.cn/" target="_blank">冀ICP备2024070249号-1</a> 版权所有 © 2024 合利环保（河北）有限公司
 ---
